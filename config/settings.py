@@ -32,6 +32,8 @@ INSTALLED_APPS = [
 
     'graphene_django',
     'django_extensions',
+
+    'src.links'
 ]
 
 MIDDLEWARE = [
