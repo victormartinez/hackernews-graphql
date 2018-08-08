@@ -1,0 +1,14 @@
+decorator==4.2.1
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==2.0.3
+django-extensions==2.0.6
+django-filter==1.1.0
+django-model-utils==3.1.1
+djangorestframework==3.7.7
+ipython==6.2.1
+model-mommy==1.5.1
+psycopg2-binary==2.7.5
+python-decouple==3.1
+pytz
+graphene-django==2.0.0
